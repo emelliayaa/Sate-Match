@@ -10,5 +10,4 @@ Kamu harus menyiapkan sate sesuai pesanan pelanggan, tapi setiap sate memiliki w
 - Semakin cepat dan tepat, semakin tinggi skor.
 
 ## Cara Menjalankan
-- Buka file **Export** sesuai device (Windows dan linux).  
-- Atau mainkan langsung online di Itch.io: [https://sachi079.itch.io/sate-match](https://sachi079.itch.io/sate-match)
+Game dapat kamu mainkan langsung online di Itch.io: [https://sachi079.itch.io/sate-match](https://sachi079.itch.io/sate-match)
